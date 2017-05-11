@@ -8,8 +8,8 @@
     <title>Forum</title>
 
     <!-- Styles -->
-    
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+
+    <link href="css/app.css" rel="stylesheet">
 
     <!-- Scripts -->
     <script>

@@ -1,0 +1,74 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/*!
+ * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+p {
+  font-size: 20px;
+}
+p.small {
+  font-size: 16px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.login-form {
+    text-align: right;
+}
+
+#mainNav {
+    background: #3160aa;
+    text-align: center;
+    color: white;
+    margin-bottom: 25px;
+}
+
+#app-title h3 a {
+    color: white;
+    text-decoration: none;
+}
+
+#app-title h3 a:hover {
+    color: #B84D45;
+}
+
+#nav-list li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px;
+}
+
+#nav-list li a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+#nav-list li a:hover {
+    color: #B84D45;
+}
+
+.new-thread {
+    height: 50px;
+}
